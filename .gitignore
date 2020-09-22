@@ -2,3 +2,6 @@ venv/
 .idea/
 
 blog/migrations/
+
+#static files
+files/
